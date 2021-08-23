@@ -57,3 +57,5 @@ replace github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alp
 replace google.golang.org/grpc => google.golang.org/grpc v1.33.2
 
 replace github.com/tendermint/tendermint => github.com/ovrclk/tendermint v0.34.11-patches
+
+replace github.com/cosmos/cosmos-sdk => github.com/ovrclk/cosmos-sdk v0.42.0-alpha1.0.20210823102438-6c31a0a2f6f6
